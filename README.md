@@ -11,7 +11,7 @@ This project has several goals:
 
 3. Analyze my activity data. This data includes cycling, running, hiking, climbing, swimming, and other sports that I have logged since 2017. 
 
-4. Create a reproducible script with functions.
+4. Create a reproducible script with defined functions, API call, and data wrangling.
 
 5. Create a pipline to Tableau for analysis, visualization, and exploration from outside users. 
 
