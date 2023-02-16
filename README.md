@@ -19,5 +19,4 @@ This project has several goals:
     The dashboard can be found here:
         https://public.tableau.com/app/profile/jairus.martinez/viz/PersonalStravaActivityData/Dashboard1
 
-6. There is a final goal which is to utilize machine learning to predict energy power (watttage) output based on different features in the cycling data. 
-
+6. My final goal which is to do more research and learning in order to utilize machine learning to predict energy power (watttage) output based on different features in my cycling data!
