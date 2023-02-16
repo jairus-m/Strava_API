@@ -14,8 +14,10 @@ This project has several goals:
 4. Create a reproducible script with functions.
 
 5. Create a pipline to Tableau for analysis, visualization, and exploration from outside users. 
+
+
     The dashboard can be found here:
         https://public.tableau.com/app/profile/jairus.martinez/viz/PersonalStravaActivityData/Dashboard1
 
-There is a final goal which is to utilize machine learning to predict energy power (watttage) output based on different features in the cycling data. 
+6. There is a final goal which is to utilize machine learning to predict energy power (watttage) output based on different features in the cycling data. 
 
