@@ -13,7 +13,7 @@ This project has several goals:
 
 4. Create a reproducible script with defined functions, API call, and data processing.
 
-5. Create a pipline to Tableau for analysis, visualization, and exploration from outside users. 
+5. Create a pipline to Tableau for dynamic analysis, visualization, and exploration which will be accesible by the public. 
 
 
     The dashboard can be found here:
